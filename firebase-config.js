@@ -8,5 +8,3 @@ exports.firebaseConfig = {
     measurementId: "G-48RLLFFPMJ",
     databaseURL:"https://node-d75ce-default-rtdb.firebaseio.com/"
   };
-
-// module.exports = firebaseConfig;
